@@ -199,23 +199,23 @@ export const AVAILABLE_PLACES = [
     lon: -58.38,
   },
   {
-    id: 'p18',
-    title: 'Amazon River',
+    id: 'p19',
+    title: 'Nile River',
     image: {
       src: amazonRiverImg,
       alt: 'Navigating the waters of the Amazon River, surrounded by dense rainforest.',
     },
-    lat: -3.4653,
-    lon: -58.38,
+    lat: -13.4653,
+    lon: 58.38,
   },
   {
-    id: 'p18',
-    title: 'Amazon River',
+    id: 'p20',
+    title: 'Mekong River',
     image: {
       src: amazonRiverImg,
       alt: 'Navigating the waters of the Amazon River, surrounded by dense rainforest.',
     },
-    lat: -3.4653,
-    lon: -58.38,
+    lat: 10.4653,
+    lon: 85.38,
   },
 ];
